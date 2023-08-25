@@ -4,6 +4,7 @@ import java.util.List;
 import java.util.LinkedList;
 import java.util.Scanner;
 
+// Main Class
 public class BankAccountApp {
 
     private static List<Account> accounts = new LinkedList<Account>();

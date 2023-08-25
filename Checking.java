@@ -2,6 +2,7 @@ package bank_account_app;
 
 import java.util.Random;
 
+// Checking Account
 public class Checking extends Account {
     // List properties specific to a checking account
     private long debitCardNumber;
