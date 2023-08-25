@@ -1,5 +1,6 @@
 package bank_account_app;
 
+// Savings Account
 public class Savings extends Account {
     // List properties specific to the Savings account
     private int safetyDepositBoxID;
